@@ -1,13 +1,13 @@
 #If you have worked on relevant projects talk about them here
 
-- name: Project 1
-  description: A few sentences describing your project.
+- name: Infidelity
+  description: This was a school project where we developed a paper trading web platform with (nearly) live ticker data. We used TypeScript (React), Java (Springboot), and AWS. This also served as a great place for Agile methodology practice.
 
-- name: Project 2
-  description: A few sentences describing your project.
+- name: Mock Circuit
+  description: Another school project! As a group, we developed a mock logic circuit utilizing C. The product was able to reduce and evaluate logical statements through or, and, not, etc. gates.
 
-- name: Project 3
-  description: A few sentences describing your project.
+- name: UC Berkeley Pacman
+  description: This project can be found online as a well-known resource for learning AI. We used it in a class at RPI to introduce ourselves to AI. Python is used to teach Pacman to play itself.
 
-- name: Project 4
-  description: A few sentences describing your project.
+- name: Company Intranet
+  description: While working an internship, I used TypeScript (React), and Java (Springboot) to make a company intranet. Unfortunately my internship ended prior to connecting to a live database.

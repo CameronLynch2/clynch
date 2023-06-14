@@ -1,36 +1,14 @@
-header: Say something about what you're good at
-
-subheader: Give some more context
+header: I have a multitude of hard and soft skills that make me a great choice for employment!
 
 skill_list:
-  - name: Skill 1
-    description: A quick sentence or two describing your skill
+  - name: Programming Skills
+    description: I have experience in many languages. Some of them include Java, JavaScript/TypeScript, Python, C, C++, and SQL. 
 
-  - name: Skill 2
-    description: A quick sentence or two describing your skill
+  - name: Leadership/Personal Skills
+    description: Through many experiences with work and sports, I ave developed a professional nature, and the ability to lead a team both morally and through management skills.
 
-  - name: Skill 3
-    description: A quick sentence or two describing your skill
+  - name: Quick Learning Abilities
+    description: A key ability for software developers, amongst mny industries, is the ability to learn new skills. Doing so quickly is an added bonus! Through schooling, and a general interest for learning,
+                 I have become able to learn new skills quickly.
 
-#If you have certifications, talk about them here
-certifications:
-  - name: Certification 1
-    topics:
-      - Topic 1A
-      - Topic 1B
-      - Topic 1C
-      - Topic 1D
 
-  - name: Certification 2
-    topics:
-      - Topic 2A
-      - Topic 2B
-      - Topic 2C
-      - Topic 2D
-
-  - name: Certification 3
-    topics:
-      - Topic 3A
-      - Topic 3B
-      - Topic 3C
-      - Topic 3D
